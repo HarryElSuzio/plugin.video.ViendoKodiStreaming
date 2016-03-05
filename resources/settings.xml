@@ -1,0 +1,11 @@
+<settings>
+    <category label="Addon torrents">
+        <setting type="lsep" label="Seleccione el addon a utilizar"/>
+        <setting type="lsep" label=""/>
+        <setting id="quasar" type="action" action="RunPlugin(plugin://plugin.video.ViendoKodiStreaming/?mode=98VKS&url=quasar)" enable="System.HasAddon(plugin.video.quasar)" label="Abrir con Quasar"/>
+        <setting id="pulsar" type="action" action="RunPlugin(plugin://plugin.video.ViendoKodiStreaming/?mode=98VKS&url=pulsar)" enable="System.HasAddon(plugin.video.pulsar)" label="Abrir con Pulsar"/>
+        <setting id="kmediatorrent" type="action" action="RunPlugin(plugin://plugin.video.ViendoKodiStreaming/?mode=98VKS&url=kmediatorrent)" enable="System.HasAddon(plugin.video.kmediatorrent)" label="Abrir con Kmediatorrent"/>
+        <setting id="torrenter" type="action" action="RunPlugin(plugin://plugin.video.ViendoKodiStreaming/?mode=98VKS&url=torrenter)" enable="System.HasAddon(plugin.video.torrenter)" label="Abrir con Torrenter"/>
+        <setting id="xbmctorrent" type="action" action="RunPlugin(plugin://plugin.video.ViendoKodiStreaming/?mode=98VKS&url=xbmctorrent)" enable="System.HasAddon(plugin.video.xbmctorrent)" label="Abrir con Xbmctorrent"/>        <setting id="yatp" type="action" action="RunPlugin(plugin://plugin.video.ViendoKodiStreaming/?mode=98VKS&url=yatp)" enable="System.HasAddon(plugin.video.yatp)" label="Abrir con yatp"/>
+    </category>
+</settings>

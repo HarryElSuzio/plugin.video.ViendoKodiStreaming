@@ -1,0 +1,523 @@
+DisneyChannel
+   disneychannel
+bandamax
+   Bandamax
+La1
+   laprimeratve1
+   tve1
+La2
+   lasegundatve2
+   tve2
+Antena3
+   antena3
+   anta3
+Cuatro
+   cuatro
+   lacuatro
+Tele5
+   telecinco
+LaSexta
+   lasexta
+RealMadridTv
+   realmadridtv
+Alx
+   alxsyfy
+LaNueve
+   lanuevelassupervivientesresumenes
+   lanueve
+LaSexta3
+   lasexta3todocinecine
+Antena3Nova
+   nova
+   canalnovalas24h
+   canalnovah
+   anta3nova
+Astreseries
+   atreseries
+   astreseries
+   a3seriesseriesa3media
+   a3series
+AxnWhite
+   Axn White
+Axn
+   axn
+   axnhd
+   axncanalaxn
+BarsaTv
+   barsatv
+   barcatv
+BeinSport
+   Bein Sport
+   beinsports
+AyE
+   aye
+   bio
+   biochannel
+   canalbio
+   ae
+Amc
+   canalamc
+   canalamchd
+   amc
+Calle13
+   canalcalle13
+CanalCocina
+   Canal Cocina
+   cocina
+Cosmopolitan
+   canalcosmopolitan
+   cosmopolitan
+   canalcosmopolitanseriescosmo
+   cosmo
+Energy
+   canalenergy
+   energytikitaka
+   energyeltikitaka
+   ergy
+Historia
+   canalhistoria
+   historia
+Hollywood
+   canalholliwood
+   canalhollywood
+   holliwood
+   canalhollywoodlas
+   hollywood
+Odisea
+   canalodisea
+   odisea
+Tcm
+   TCM
+   tcm
+CrimeyInvestigation
+   Crime y Investigation
+   c+i
+CanalplusAccion
+   canalplusaccion
+   plusaccioncine
+   plusaccionen
+   accion
+CanalplusComedia
+   canalpluscomedia
+   pluscomedia
+   comedia
+CanalplusDcineEspanol
+   plusdcineespa
+   decineespañol
+CanalplusDCine
+   Canal plus DCine
+   dcine
+CanalplusDeportes2
+   canalplusdeportes2
+   canalplusdeportes2las
+   deportes2
+CanalplusEstrenos
+   Canal plus Estrenos
+   estros
+CanalplusFutbol
+   Canal plus Futbol
+   +fútbol
+CanalplusDeportes
+   canalplusdeportes
+   canalplusdeportesnba
+   deportes
+CanalplusGolf
+   Canal plus Golf
+   golf
+Formula1
+   formula1
+   laf1formula1
+MarcaTv
+   marcatv
+CanalplusLiga
+   canalplusliga
+   liga
+CanalplusPartidazo
+   canalpluspartidazo
+   canalpluspartidazoelpartidazodelplus
+   partidazo
+CanalplusSeriesXtra
+   canalplusseriesxtra
+CanalplusSeries
+   canalplusseries
+CanalplusToros
+   canalplustoros
+   toros
+   canalplustorosferiastaurinas
+   toros
+Canalplus
+   Canal plus
+   canalplus1
+   1uno
+Canalplus2
+   Canal plus 2
+Syfy
+   syfy
+   canalsyfy
+    syfycastellano
+   sifylas
+Tnt
+   canaltnt
+   tntlas
+   tnt
+Xplora
+   canalxplora
+   xplora
+Xtrm
+   canalxtrm
+CartoonNetwork
+   Cartoon Network
+DiscoveryChannel
+   discoverychannel
+   discovery
+CazayPesca
+   cazapesca
+   cazaypesca
+NBA
+   NBA
+Partidos
+   Partidos
+DisneyCinemagic
+   disneycinemagic
+   cinemagic
+Divinity
+   Divinity
+   divinitylas
+EuroSport2
+   eurosports2
+   eurosports2yvivo
+   eurosport2las
+EuroSport
+   eurosports
+   canaleurosport
+   eurosportlas
+   eurosport
+FactoriadeFiccion
+   factoriadeficcionfdf
+   fdffactoriadeficcionlas
+   fdffactoriadeficciontelecinco
+   fdf
+Fox
+   fox
+   canalfox
+FoxCrimen
+   Fox Crimen
+FoxLife
+   foxlife
+SevillaFc
+   sevillafctelevision
+   sfctv
+CanalplusLiga2
+   futbolporcanalplusliga2
+   canalplusliga2
+   canalplusliga2,ligaadelante
+   futbolporliga2
+CanalplusLigadeCampeones2
+   canalplusligacampeones2
+CanalplusLigadeCampeones
+   canalplusligadecampeones
+CanalplusMultiliga
+   canalplusligamultiligapartidosbbva
+GranHermanoMexico
+   granhermanomexico
+   bigbrothermexico.lacasa.
+GranHermanoArgentina
+   granhermanoargentina2015
+GranHermanoVip
+   granhermanovip
+Hustler
+   hustlertv
+   hustlerporno
+PlayboyTv
+   playboy
+   canalplayboy
+VenusTv
+   canalvenus
+   canalvenusvideosxx
+CanalBuzzRojo
+   buzzrojo
+   canalbuzzrojo+18
+   buzz
+Intereconomia
+   intereconomiapuntopelota
+   intereconomia
+   intereconomiatv
+Mega
+   mega
+   canalmega
+   canalmegaatresmedia
+MotoGp
+   motogp
+   motogpsportv1movistar
+NatGeoWild
+   natgeowill
+   natgeowild
+   nationalwildlasaqui
+NationalGeographicChannel
+   nationalgeographic
+   nationalgeographiclasdocumental
+   natgeo
+   nationalgeografhicchannel
+Neox
+   neox
+   neoxlas24hhoras
+ParamountChannel
+   Paramount Channel
+   paramount
+ParamountComedy
+   Paramount Comedy
+ComedyCentral
+   Comedy Central
+   comedycentral
+LaSiete
+   lasiete
+Sportmania
+   sportmania
+   sportmaniafutbolinternacional
+Tele5
+   Telecinco
+Teledeporte
+   Teledeporte
+13Tv
+   13tv
+   13tv
+DiscoveryMax
+   discoverymax
+   discoverymaxlasdocumentales
+Mtv
+   mtv
+   mtvespana
+   mtvlas
+   mtvespaña
+Tve24Horas
+   tve24h
+   tve24hnoticias
+Peliculas
+   peliculas
+America
+   americatv2
+A24
+   a24
+DirecTvSport
+   directvsports
+EspnClassic
+   Espn Classic
+Espn
+   espndeportes
+Espn2
+   espn2deportes
+FoxDeportes
+   foxdeportes
+   foxdeportespartidos
+GolTv
+   Gol Tv
+TyCSports
+   tycsports
+CineMax
+   canalcinemax
+   cinemax
+Space
+   canalspace
+Universal
+   canaluniversal
+   canaluniversalchannel
+Canal5Noticias
+   cn5noticias
+   c5n
+El9
+   elnueve
+   canalnueveargentinaelcanal9
+ElTrece
+   eltrece
+   el13elcanaleltrece
+HBOHomeBoxOffice
+   hbohomeoffice
+   hboboxhomeoffice
+HBOLatino
+   hbolatino
+HBOPlus
+   hboplus
+TvPublicaCanalSiete
+   lasietetvpublicaargentina
+Magazine
+   magazine
+   canalmagazinetv
+MundoFox
+   mundofox
+Telefe
+   telefe
+TodoNoticias
+   tnnoticias
+WarnerChannel
+   warnerchannel
+   warnerchannelvivo
+Canal6
+   canal6partidos
+Caracol
+   caracol
+   canalcaracoltv
+   canalcaracol
+ChelseaTv
+   chelseatv
+FoxSports
+    foxsports
+    foxsportsdeportes
+WWE
+   wwewwe
+SportTv1
+   sportTv1
+CMD
+   cmd
+   cmddeportefutbol
+CopaOro
+   copaoro
+CopaAmericaChile2015
+   copaamericachile2015
+   americatv
+Univision
+   univision
+   univisiondeportes
+Magazine
+   Magazine
+Canal9
+   Canal 9
+AricaTv
+   Arica Tv
+Axn
+   axn
+   axnlatino
+Canal13
+   Canal 13
+CDF
+   CDF
+Tnt
+   tnt
+   tntespana
+   tntlatino
+Fox
+   lafox
+   foxlatino
+ChileVision
+   chilevision
+CNN
+   cnnchile
+TVN
+   tvn
+TvUniacc
+   tvuniacc
+RCNTelevision
+   rcntelevision
+Telepacifico
+   telepacifico
+NTN24
+   ntntv
+   tn24
+RTUNoticias
+   rtu
+TeleMedellin
+   telemedellin
+UnoEcuador
+   canalunoecuador
+EcuadorTv
+   ecuadortv
+Ecuavisa
+   ecuavisa
+Nick
+   nick
+   nickhd
+GamaTv
+   gamatv
+Telemundo
+   telemundo
+Azteca7
+   azteca7
+AztecaTrece
+   azteca13tv
+Atv
+   atv
+Atvplus
+   atv+
+FrecuenciaLatina
+   frecuencialatina
+GlobalTv
+   globaltelevision
+MonteCarlo
+   montecarlotv
+VTV
+   vtvuruguay
+DATTelevision
+   dattv
+Telesur
+   telesur
+Venevision
+   venevision
+GloboVision
+   globovisionvenezuela
+CanalSur
+   Autonomicos Canal Sur
+   canalsur
+AndaluciaTv
+   Autonomicos Andalucia Tv
+   andaluciatv
+Esport3
+   sport3
+   esport3
+Tv3
+   Autonomicos Tv 3
+   tv3
+AragonTv
+   Autonomicos Aragon Tv
+   aragontv
+GaliciaTv
+   Autonomicos Galicia Tv
+   galiciatv
+   tvgalicia
+ExtremaduraTv
+   Autonomicos Extremadura Tv
+   extremaduratv
+TeleMadrid
+   Autonomicos TeleMadrid
+   telemadrid
+LaOtra
+   Autonomicos La Otra
+   laotra
+I3
+   Autonomicos I3
+   ib3
+TvCanaria
+   Autonomicos Tv Canaria
+   tvcanaria
+LevanteTv
+   Autonomicos Levante Tv
+   levantetv
+Cyl7
+   Autonomicos Cyl 7
+   cyltv
+ETBSat
+   Autonomicos ETB Sat
+   etbsat
+TPA
+   Autonomicos TPA
+   tpa
+TeleAsturias
+   Autonomicos Tele Asturias
+   teleasturias
+Nick
+   Nick
+EventosDeportivos1
+   Eventos Deportivos 1
+EventosDeportivos2
+   Eventos Deportivos 2
+EventosDeportivos3
+   Eventos Deportivos 3
+EuropaPlus
+   Europa Plus
+   europaplustv
+KissTv
+   Kiss Tv
+   kisstv
+PartyTv
+   Party Tv
+   partytv
+viajar
+   viajar

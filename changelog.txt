@@ -1,0 +1,46 @@
+------------------------------
+de 0.0.4.b a 0.0.5.b (02-03-2016)
+------------------------------
+- Añadidas series
+- item_info_convert=ifchange para modulos
+- Corrección fallo Android
+- Nuevos modulos
+- Estructuración carpetas
+- Logos Canales
+- Nombres canales
+- Fondos
+- Agregado modulos torrent
+- Agregada la selección de modulo para torrent
+- Correción de SAY
+
+------------------------------
+0.0.3.b (06-02-2016)
+------------------------------
+- Menu de categorias
+- creación de dictionaries
+- Casi todos los logos de canales
+- type=say para modules
+- item_info_convert=change para modulos
+- incluimos modules cinestrenos, latelete, smart-tv-online, tvenganchado, tvonfutbol, vercanalestv y verdirectotv
+- modificación dinozap
+------------------------------
+de 0.0.0.b a 0.0.3b
+------------------------------
+
+customConversions.py
++ def change(params,src)
+
+main.py
++ class Mode: -> SAY = 99
+- Eliminación favoritos
++ Nuevos item menú
++ Nuevo item Say - provisional - revisar
+
+parser.py
++ Command -> change
+
+------------------------------
+0.0.0.b (20-01-2016)
+------------------------------
+- Iniciamos una nueva versión del addon
+- Solo versión de prueba, desaconsejamos su difusión
