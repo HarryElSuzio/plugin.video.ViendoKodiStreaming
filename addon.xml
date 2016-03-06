@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <addon
     id="plugin.video.ViendoKodiStreaming"
-    version="0.0.4"
-    name="[COLOR 00000000] [/COLOR][COLOR blue]ViendoKodi[/COLOR] [COLOR red]Streaming[/COLOR]"
+    version="0.0.5"
+    name=" [COLOR blue]ViendoKodi[/COLOR] [COLOR red]Streaming[/COLOR]"
     provider-name="[COLOR red]ViendoKodi[/COLOR] Team">
     <requires>
         <import addon="xbmc.python" version="2.14.0"/>
